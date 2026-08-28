@@ -1,0 +1,6 @@
+# Antigravity Workspace Customizations / External Skills
+.agents/
+
+# Dependencies & Build Output
+node_modules/
+dist/
